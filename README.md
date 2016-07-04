@@ -1,9 +1,10 @@
 Gathering Playstation Trophy information from the website PSNProfiles.com
 
 Simple how to: 
-1) Run the 'links.py' script first to gather all the links used to gather game information
-2) Run the 'games.py' script second to gather all the game information 
-3) Run the 'trophies.py' script third to gather all the trophy information
+1) Have Python 3.5 and a database program such as "DB Browser for SQLite" installed
+2) Run the 'links.py' script first to gather all the links used to gather game information
+3) Run the 'games.py' script second to gather all the game information 
+4) Run the 'trophies.py' script third to gather all the trophy information
 
 Links.py : 
   Simple program that gathers the links from the website and stores it into the 'links' table for the database. The links gathered are the 'blue buttons' that sort the games alphabetically. Once you're on that page it lists all the games starting with that letter (or number, or foreign character) so we don't need to go further than that. 
