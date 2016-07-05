@@ -21,5 +21,3 @@ Trophies.py :
 For more detailed information on how each works, see the comments in the individual scripts. 
   
 For a completed database (information gathered 6/23/16) download the "Zipped completed database" file. 
-  
-To see the results and related discussion, view the reddit thread np.reddit.com/r/PS4/comments/4q3jl2/i_recently_finished_a_class_on_gathering_and/
